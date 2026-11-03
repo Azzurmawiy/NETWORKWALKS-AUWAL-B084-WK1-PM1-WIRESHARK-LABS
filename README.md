@@ -13,9 +13,9 @@ Completed 6 interactive SOC analysis labs investigating network packet captures 
 6. **Lab 8 - VoIP Call Replay:** Reconstructed SIP call setup and RTP audio streams (PCMU codec) to identify caller Ali Raza (`ext 101`) and desk operator Sara.
 
 ## Lab Completion Evidence
-Lab 3: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%203%20Result%20-%20Auwal%20Usman.png
-Lab 4: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%204%20Result%20-%20Auwal%20Usman.png
-Lab 5: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%205%20Result%20-%20Auwal%20Usman.png
-Lab 6: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%206%20Result%20-%20Auwal%20Usman.png
-Lab 7: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%207%20Result%20-%20Auwal%20Usman.png
-Lab 8: https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%208%20Result%20-%20Auwal%20Usman.png
+- **Lab 3:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%203%20Result%20-%20Auwal%20Usman.png
+- **Lab 4:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%204%20Result%20-%20Auwal%20Usman.png
+- **Lab 5:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%205%20Result%20-%20Auwal%20Usman.png
+- **Lab 6:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%206%20Result%20-%20Auwal%20Usman.png
+- **Lab 7:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%207%20Result%20-%20Auwal%20Usman.png
+- **Lab 8:** https://github.com/Azzurmawiy/NETWORKWALKS-AUWAL-B084-WK1-PM1-WIRESHARK-LABS/blob/main/Lab%208%20Result%20-%20Auwal%20Usman.png
